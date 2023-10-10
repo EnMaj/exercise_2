@@ -8,4 +8,3 @@ with open("input.txt") as file:
 with open("input.txt","w") as file:
     for i in range(len(number)):
         file.write(number[i])
-
